@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name ="color">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="img">
+        <item name="android:layout_width">wrap_content </item>
+        <item name="android:layout_height">wrap_content </item>
+        <item name=" app:srcCompat=">@drawable/sunset</item>
+
+    </style>
+
+    <style name="text1">
+        <item name="android:textColor">#004c8c</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:layout_width">187dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name= "android:layout_marginTop">8dp</item>
+
+    </style>
+
+    <style name="text2">
+        <item name="android:textColor">#004c8c</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_width">204dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name= "android:layout_marginTop">8dp</item>
+
+    </style>
+
+    <style name="text3">
+        <item name="android:textColor">#004c8c</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:layout_width">197dp</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name= "android:layout_marginTop">24dp</item>
+
+    </style>
+
+    <style name="btn1">
+    <item name="android:layout_width">wrap_content </item>
+    <item name="android:layout_height">wrap_content </item>
+        <item name="android:layout_marginEnd">184dp</item>
+        <item name="android:layout_marginRight">184dp</item>
+    </style>
+
+    <style name="btn2">
+        <item name="android:layout_width">wrap_content </item>
+        <item name="android:layout_height">wrap_content </item>
+        <item name= "android:layout_marginTop">168dp</item>
+    </style>
+</resources>
